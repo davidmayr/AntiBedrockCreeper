@@ -5,7 +5,7 @@
     "description": "It will stop Creepers from Griefing even if Mob Griefing is on",
     "uuid": "9c69cb83-e88f-43d8-85f0-aaaca9d87003",
     "version": [
-      1,
+      2,
       0,
       0
     ]
@@ -16,7 +16,7 @@
       "type": "client_data",
       "uuid": "795eaaca-6ce4-4e2d-8a37-a0d33998e70e",
       "version": [
-        1,
+        2,
         0,
         0
       ]

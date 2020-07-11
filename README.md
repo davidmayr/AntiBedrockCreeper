@@ -8,9 +8,6 @@ While i was developing I noticed that you can't do that with scripts. So I did i
 
 # Why? There is a Mob-Griefing option...
 
-Mob-Griefing turnes of the Griefing for every Mob... This Pack doesn't.
+Mob-Griefing turnes of the Griefing for every Mob... This Pack doesn't. 😉
 A creeper will still explode when he gets lit with a flint and steel.
 
-# The Script doesnt work and my World has been Griefed...
-
-Make sure to activate Experimental Gameplay next time! 😉
