@@ -4,7 +4,7 @@ This simple Bedrock Behavior Pack helps me to understand Minecraft Bedrock Editi
 It will stop Creepers from Exploding even if Mob-Griefing is turned on.
 
 Note:
-While i was developing I noticed that you can't do that with scripts. So I did it with the creeper.json.
+While I was developing I noticed that you can't do that with scripts. So I did it with the creeper.json.
 
 # Why? There is a Mob-Griefing option...
 
